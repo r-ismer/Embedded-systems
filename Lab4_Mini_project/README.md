@@ -14,9 +14,9 @@ The goal of lab 4.0 is for you to implement the detailed design we proposed in l
 
 1. Each group of 2 students independently implemented their camera or LCD design. We
 needed to test our implementation by performing suitable simulations with ModelSim to ensure that
-the design functions as we expected. Before we implemented our design, we must agree on the format 
+the design functions as we expected. Before we implemented our design, we must agree on the format
 a frame will have once in memory for your designs to work correctly once put together.
-2. Once our simulations were conclusive and corresponded to what we expected, we have been then 
+2. Once our simulations were conclusive and corresponded to what we expected, we have been then
 provided with the actual camera and LCD extension boards so we could test our design on the real hardware.
     1. For the group implementing the camera design, the ultimate test will be to save a frame in
 memory then transfer it to our host PC so we could visually inspect it with an image viewer.
